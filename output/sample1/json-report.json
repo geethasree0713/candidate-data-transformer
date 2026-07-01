@@ -1,0 +1,312 @@
+{
+  "success": true,
+  "profile": {
+    "candidate_id": "a819fd76dd54",
+    "full_name": "Manyam Geetha Sree",
+    "emails": [
+      "geethamsree9@gmail.com"
+    ],
+    "phones": [
+      "+917416317499"
+    ],
+    "location": {
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/manyam-geetha-50a535407/",
+      "github": "https://github.com/geethasree0713",
+      "portfolio": null,
+      "other": [
+        "https://leetcode.com/u/geethamsree9/"
+      ]
+    },
+    "headline": "Information Science Engineering Student | Full-Stack Developer",
+    "years_experience": 0,
+    "skills": [
+      {
+        "name": "java",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "python",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "javascript",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "c",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "react",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "html",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "css",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "figma",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "node.js",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "express.js",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "rest apis",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "jwt authentication",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "mongodb",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "mysql",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "rag",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "prompt engineering",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "llm applications",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "shap",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "lime",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "git",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "github",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "postman",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "n8n",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "chatgpt",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "hailuo ai",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "elevenlabs",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "dsa",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "oop",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "dbms",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "operating systems",
+        "confidence": 0.7,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "SURE Trust",
+        "title": "GenAI Intern",
+        "start": "2026-01",
+        "end": null,
+        "summary": "Worked on enterprise AI solutions involving semantic search, retrieval systems, workflow automation, Langraph and intelligent application development."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Nitte Meenakshi Institute of Technology",
+        "degree": "B.E. in Information Science Engineering",
+        "field": null,
+        "end_year": 2027
+      },
+      {
+        "institution": "Narayana Junior College",
+        "degree": null,
+        "field": "MPC",
+        "end_year": 2023
+      },
+      {
+        "institution": "Vijaya Bharathi English Medium High School",
+        "degree": null,
+        "field": null,
+        "end_year": 2021
+      }
+    ],
+    "overall_confidence": 0.87,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "multiple (agreed)",
+        "method": "agreement-boost"
+      },
+      {
+        "field": "emails",
+        "source": "csv+resume",
+        "method": "union-dedup"
+      },
+      {
+        "field": "phones",
+        "source": "csv+resume",
+        "method": "union-dedup"
+      },
+      {
+        "field": "location",
+        "source": "resume",
+        "method": "free-text-split"
+      },
+      {
+        "field": "headline",
+        "source": "resume",
+        "method": "single-source"
+      },
+      {
+        "field": "skills",
+        "source": "resume",
+        "method": "extract+canonicalize"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "extract+normalize-dates"
+      },
+      {
+        "field": "education",
+        "source": "resume",
+        "method": "extract"
+      }
+    ]
+  }
+}
