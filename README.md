@@ -2,6 +2,29 @@
 
 [view](ManyamGeethaSree_geethamsree9%40gmail.com_Eightfold.pdf)
 
+
+# Outputs
+
+## Sample 1
+
+### Interface
+
+![Interface](./output/sample1/interface.png)
+
+### JSON Report
+
+[View JSON Report](./output/sample1/json-report.json)
+
+## Sample 2
+
+### Interface
+
+![Interface](./output/sample2/interface.png)
+
+### JSON Report
+
+[View JSON Report](./output/sample2/json-report.json)
+
 ## Install Dependencies
 
 ### Server
